@@ -1,0 +1,40 @@
+        
+body {
+    background-color: #bbddf8;
+    font-family: "Helvetica Neue", "Arial", sans-serif;
+    letter-spacing: 1px;
+    font-weight: 320;
+    width: 95%;
+}
+
+h1 {
+    color:#02447a
+}
+
+h3 {
+    color:#02447a
+}
+
+hr {
+    border-style: dotted none none;
+    border-color: #72B6EC;
+    border-width: 7px;
+    height: 10px;
+    width: 5%;
+}
+
+p {
+    color:#02447a
+}
+
+table {
+    color:#02447a
+}
+
+ol {
+    color: #02447a
+}
+
+ul {
+    color: #02447a
+}
