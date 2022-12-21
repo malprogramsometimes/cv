@@ -1,1 +1,1 @@
-# cv
+# Hello, my name is Malachi! This github repository is a compilation of things I've been learning with HTML, CSS, Bootstrap, and JavaScript! This is my first website in my journey with web development, and trying to become a full stack web developer!
